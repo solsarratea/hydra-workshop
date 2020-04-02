@@ -8,7 +8,7 @@ https://github.com/ojack/hydra
 
 ### Structure of workshop
 
-i- Basics and feedbackloop
+i- Basics of hydra and feedback loops
 
 
 ii- Streaming loop
