@@ -26,7 +26,7 @@ https://pad.riseup.net/p/hydra-workshop
 
 ### Streaming loop
 Enter your name and your hydra_name
-https://pad.riseup.net/p/streaming-hydra-
+https://pad.riseup.net/p/streaming-hydra-loop
 
 #### Examples will be updated during the workshop :) 
 
