@@ -9,6 +9,8 @@ https://github.com/ojack/hydra
 ### Structure of workshop
 
 i- Basics and feedbackloop
+
+
 ii- Streaming loop
 
 ### Getting started in the browser
