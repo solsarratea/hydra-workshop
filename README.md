@@ -11,7 +11,7 @@ https://github.com/ojack/hydra
 i- Basics and feedbackloop
 ii- Streaming loop
 
-### 3Getting started in the browser
+### Getting started in the browser
 Go to https://hydra-editor.glitch.me
 
 ### Cheatsheet
